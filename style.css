@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@500&family=Manrope:wght@400;500;600&display=swap');
+
+
+
+body {
+    font-family: 'Manrope', serif;
+    font-style: normal;
+    font-weight: 500;
+    text-align: center;
+}
+
+table, th, td {
+    margin: auto;
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding: 8px 16px;
+}
+
+h1 {
+    height: 60px;
+    left: 372px;
+    top: 51px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150%;
+    letter-spacing: 0.005em; 
+    color: #000000;
+}
+
+tr {
+    height: 48px;
+    left: 16px;
+    top: 8px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 0.005em;
+    color: #000000;
+}
+
+td {
+height: 36px;
+left: 16px;
+top: 14px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 150%;
+letter-spacing: 0.005em;
+color: #000000;
+}
+
+
